@@ -33,6 +33,10 @@ You can add your domain to:
 -netifly <br>
 and much more.... 
 
+### Donations
+
+Consider donating to me so this service can still be up and running (cuz all the money are coming from my wallet, and being jobless isnt a good thing yk :3) -> [**`https://creepers.sbs/donate`**](https://creepers.sbs/donate)
+
 ------------------------------------
 | Domains | (Coming in the future) |
 | ------------- | ------------- |

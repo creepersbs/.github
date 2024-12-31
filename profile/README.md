@@ -35,7 +35,7 @@ and much more....
 
 ### Donations
 
-Consider donating to me so this service can still be up and running (cuz all the money are coming from my wallet, and being jobless isnt a good thing yk :3) -> [**`https://creepers.sbs/donate`**](https://creepers.sbs/donate)
+Consider donating to me so this service can still be up and running (all the donations will be used to keep the services of [**`CreeperHUB`**](https://creeperhub.net) up and running, this one included) -> [**`https://creepers.sbs/donate`**](https://creepers.sbs/donate)
 
 ------------------------------------
 | Domains | (Coming in the future) |

@@ -7,7 +7,7 @@ This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) and [*
 Take ur free subdomain for developers, MC players, MC servers for free without needing credit card. 
 
 > [!NOTE]
-> "Sub" subdomains (like `something.example.creepers.sbs`) are supported too. But then the file has to be called `something.example.json` to register `something.example.creepers.sbs`
+> "Sub" subdomains (like `something.example.creepers.sbs`) are supported too. But then the file has to be called (for ex) `something.example.json` to register `something.example.creepers.sbs`
 
 [badge-cf]:https://shields.io/badge/%20-cloudflare-blue?logo=cloudflare&style=plastic?cacheSeconds=3600
 [badge-dnssec]:https://shields.io/badge/%20-DNSSEC-blue?logo=moleculer&logoColor=white&style=plastic?cacheSeconds=3600
@@ -24,6 +24,7 @@ You can add your domain to:
 -your discord profile <br>
 -your website online <br>
 -your bluesky profile <br>
+-your discord profile <br>
 -your minecraft server <br>
 -your github page <br>
 -your cloudflare page <br>
@@ -45,3 +46,13 @@ Consider donating to me so this service can still be up and running (all the don
 |  [`???`](https://creeperhub.net)  |  ???  |
 |  [`???`](https://creeperhub.net)  |  ???  |
 |  [`???`](https://creeperhub.net)  |  ???  |
+
+
+------------------------------------
+| Features | (Coming in the future) |
+| ------------- | ------------- |
+|  `automatization of the process`  |  By using bots into Github  |
+|  `more speed`  |  In both the registration process both the domain speed  |
+|  `dashboard`  |  A dashboard online to register and manage your subdomains  |
+|  `SSL`  |  More SSL encryptions  |
+|  `Whois`  |  A custom whois too see the infos of who registers any domain + whois privacy  |

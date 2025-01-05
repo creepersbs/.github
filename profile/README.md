@@ -9,10 +9,6 @@ Take ur free subdomain for developers, MC players, MC servers for free without n
 > [!NOTE]
 > "Sub" subdomains (like `something.example.creepers.sbs`) are supported too. But then the file has to be called (for ex) `something.example.json` to register `something.example.creepers.sbs`
 
-[badge-cf]:https://shields.io/badge/%20-cloudflare-blue?logo=cloudflare&style=plastic?cacheSeconds=3600
-[badge-dnssec]:https://shields.io/badge/%20-DNSSEC-blue?logo=moleculer&logoColor=white&style=plastic?cacheSeconds=3600
-[badge-ssl]:https://shields.io/badge/SSL-Required-blue?style=plastic?cacheSeconds=3600
-
 
 ## How to register?
 

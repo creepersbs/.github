@@ -56,3 +56,4 @@ Consider donating to me so this service can still be up and running (all the don
 |  `dashboard`  |  A dashboard online to register and manage your subdomains  |
 |  `SSL`  |  More SSL encryptions  |
 |  `Whois`  |  A custom whois too see the infos of who registers any domain + whois privacy  |
+|  `PSL`  |  Get into the [**`public suffix list`**](https://publicsuffix.org/)  |

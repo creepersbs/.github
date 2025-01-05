@@ -1,6 +1,6 @@
 # Creepers.sbs - Another free subdomain provider
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
-This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) and [**`Giocoliere`**](https://giocoliere.dev). It works only with donations and my own wallet (who's not infinite) so please consider a [**`donation`**](https://creepers.sbs/donate) <3
+This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) and [**`Giocoliere`**](https://giocoliere.dev). It works only with donations and my own wallet (who's not infinite) so please consider a [**`donation`**](#donations) <3
 
 ----------------------------------
 
@@ -20,19 +20,18 @@ Go to this repository here and follow the tutoral to register your free domain -
 
 ### How can my domain be used?
 
-You can add your domain to: 
--your discord profile <br>
--your website online <br>
--your bluesky profile <br>
--your discord profile <br>
--your minecraft server <br>
--your github page <br>
--your cloudflare page <br>
--verify your github page <br>
--redirect to your minecraft profile <br>
--vercel <br>
--netifly <br>
-and much more.... 
+You can add your domain to: <br>
+-`your discord profile` <br>
+-`your website online` <br>
+-`your bluesky profile` <br>
+-`your minecraft server` <br>
+-`your github page` <br>
+-`your cloudflare page` <br>
+-`verify your github page` <br>
+-`redirect to your minecraft profile` <br>
+-`vercel` <br>
+-`netifly` <br>
+`and much more`.... 
 
 ### Donations
 

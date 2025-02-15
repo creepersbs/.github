@@ -52,3 +52,4 @@ Consider donating to me so this service can still be up and running (all the don
 |  `SSL`  |  More SSL encryptions  |
 |  `Whois`  |  A custom whois too see the infos of who registers any domain + whois privacy  |
 |  `PSL`  |  Get into the [**`public suffix list`**](https://publicsuffix.org/)  |
+|  `DS`  |  The possibility to use DS / DNSKEYS into the domains for DNS providers |

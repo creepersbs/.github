@@ -1,10 +1,10 @@
 # Creepers.sbs - Another free subdomain provider
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
-This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) and [**`Giocoliere`**](https://giocoliere.dev). It works only with donations and my own wallet (who's not infinite) so please consider a [**`donation`**](#donations) <3
+This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) / [**`Giocoliere`**](https://giocoliere.dev). It works only with donations and my own wallet (which is not endless) so please consider a [**`donation`**](#donations) <3
 
 ----------------------------------
 
-Take ur free subdomain for developers, MC players, MC servers for free without needing credit card. 
+Take your free subdomain for developers, MC players, MC servers for free without needing any credit card. 
 
 > [!NOTE]
 > "Sub" subdomains (like `something.example.creepers.sbs`) are supported too. But then the file has to be called (for ex) `something.example.json` to register `something.example.creepers.sbs`
@@ -50,6 +50,6 @@ Consider donating to me so this service can still be up and running (all the don
 |  `more speed`  |  In both the registration process both the domain speed  |
 |  `dashboard`  |  A dashboard online to register and manage your subdomains  |
 |  `SSL`  |  More SSL encryptions  |
-|  `Whois`  |  A custom whois too see the infos of who registers any domain + whois privacy  |
+|  `WhoIs`  |  A custom whois too see the infos of who registers any domain + whois privacy  |
 |  `PSL`  |  Get into the [**`public suffix list`**](https://publicsuffix.org/)  |
 |  `DS`  |  The possibility to use DS / DNSKEYS into the domains for DNS providers |

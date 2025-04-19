@@ -37,8 +37,8 @@ Consider donating to me so this service can still be up and running (all the don
 | Domains | (Coming in the future) |
 | ------------- | ------------- |
 |  [`creepers.sbs`](https://creepers.sbs)  |  Active  |
-|  [`???`](https://creeperhub.net)  |  ???  |
-|  [`???`](https://creeperhub.net)  |  ???  |
+|  [`creepers.cloud`](https://creepers.cloud)  |  ACTIVE  |
+|  [`askfor.pics/@yourusername`](https://askfor.pics)  |  W.I.P  |
 |  [`???`](https://creeperhub.net)  |  ???  |
 |  [`???`](https://creeperhub.net)  |  ???  |
 

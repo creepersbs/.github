@@ -53,3 +53,10 @@ Consider donating to me so this service can still be up and running (all the don
 |  `WhoIs`  |  A custom whois too see the infos of who registers any domain + whois privacy  |
 |  `PSL`  |  Get into the [**`public suffix list`**](https://publicsuffix.org/)  |
 |  `DS`  |  The possibility to use DS / DNSKEYS into the domains for DNS providers |
+
+> [!WARNING]
+> DISCLAIMER: This free subdomain service (creepers.sbs) is a community-driven project and is **NOT AN OFFICIAL MINECRAFT SERVICE**. It is **NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT**.
+
+> The terms "Minecraft" and "Mojang" are trademarks of Mojang Synergies AB. "Microsoft" is a trademark of Microsoft Corporation. This service is provided independently and the use of Minecraft-related terms or the availability of Minecraft-themed subdomains does not imply any official connection or endorsement.
+
+> Please be aware that this service is provided as-is, without any warranty or guarantee from Mojang, Microsoft, or the creators of this service.

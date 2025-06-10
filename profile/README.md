@@ -27,7 +27,7 @@ You can add your domain to: <br>
 -`redirect to your minecraft profile` <br>
 -`vercel` <br>
 -`netifly` <br>
-`and much more`.... 
+`and much more`... 
 
 ### Donations
 

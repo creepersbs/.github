@@ -39,7 +39,7 @@ Consider donating to me so this service can still be up and running (all the don
 |  [`creepers.sbs`](https://creepers.sbs)  |  Active  |
 |  [`creepers.cloud`](https://creepers.cloud)  |  Active  |
 |  [`askfor.pics/@yourusername`](https://askfor.pics)  |  W.I.P  |
-|  [`Shrinkify`](https://creeperhub.net)  |  W.I.P  |
+|  [`Shrinkify`](https://shrinkify.club)  |  W.I.P  |
 |  [`???`](https://creeperhub.net)  |  ???  |
 
 

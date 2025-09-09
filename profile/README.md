@@ -1,6 +1,7 @@
-# creepers.sbs - Another free subdomain provider
+
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
-This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) / [**`Giocoliere`**](https://giocoliere.dev). It works only with donations and my own wallet (which is not endless) so please consider a [**`donation`**](#donations) <3
+# creepers.sbs - Another free subdomain provider [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
+This free subdomain powered by [**`CreeperHUB`**](https://creeperhub.net) / [**`Giocoliere`**](https://giocoliere.dev). It works only with donations and my own wallet (which is not endless) so please consider a [**`donation`**](#donations) <3 
 
 ----------------------------------
 

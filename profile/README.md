@@ -35,17 +35,17 @@ You can add your domain to: <br>
 Consider donating to me so this service can still be up and running (all the donations will be used to keep the services of [**`CreeperHUB`**](https://creeperhub.net) up and running, this one included) -> [**`https://creepers.sbs/donate`**](https://creepers.sbs/donate)
 
 ------------------------------------
-| Domains | (Coming in the future) |
+| Features | (Coming in the future) |
 | ------------- | ------------- |
 |  [`creepers.sbs`](https://creepers.sbs)  |  Active  |
 |  [`creepers.cloud`](https://creepers.cloud)  |  Active  |
 |  [`askfor.pics/@yourusername`](https://askfor.pics)  |  W.I.P  |
 |  [`Shrinkify`](https://shrinkify.club)  |  W.I.P  |
-|  [`???`](https://creeperhub.net)  |  ???  |
+|  [`ID`](https://id.creeperhub.net)  |  W.I.P  |
 
 
 ------------------------------------
-| Features | (Coming in the future) |
+| To-Do | (Soon) |
 | ------------- | ------------- |
 |  `automatization of the process`  |  By using bots into Github  |
 |  `more speed`  |  In both the registration process both the domain speed  |
@@ -59,6 +59,6 @@ Consider donating to me so this service can still be up and running (all the don
 > [!WARNING]
 > DISCLAIMER: This free subdomain service (creepers.sbs) is a community-driven project and is **NOT AN OFFICIAL MINECRAFT SERVICE**. It is **NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT**.
 
-> The terms "Minecraft" and "Mojang" are trademarks of Mojang Synergies AB. "Microsoft" is a trademark of Microsoft Corporation. This service is provided independently and the use of Minecraft-related terms or the availability of Minecraft-themed subdomains does not imply any official connection or endorsement.
+> The terms "Minecraft", "Creeper" and "Mojang" are trademarks of Mojang Synergies AB. "Microsoft" is a trademark of Microsoft Corporation. This service is provided independently and the use of Minecraft-related terms or the availability of Minecraft-themed subdomains does not imply any official connection or endorsement.
 
 > Please be aware that this service is provided as-is, without any warranty or guarantee from Mojang, Microsoft, or the creators of this service.

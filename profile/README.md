@@ -39,9 +39,18 @@ Consider donating to me so this service can still be up and running (all the don
 | ------------- | ------------- |
 |  [`creepers.sbs`](https://creepers.sbs)  |  Active  |
 |  [`creepers.cloud`](https://creepers.cloud)  |  Active  |
+|  [`.does.askfor.pics BLUESKY HANDLE`](https://handles.net/~/does.askfor.pics/register)  |  Active (Bluesky account required)  |
 |  [`askfor.pics/@yourusername`](https://askfor.pics)  |  W.I.P  |
 |  [`Shrinkify`](https://shrinkify.club)  |  W.I.P  |
 |  [`ID`](https://id.creeperhub.net)  |  W.I.P  |
+
+-Bluesky Post- 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:7gts4efmekrrfx5zbe7pbrcp/app.bsky.feed.post/3m3sh2drpqs2m" data-bluesky-cid="bafyreib5w7tpwb5mvvv2gwxz7fxnguss6mmfeoff46gddf2j5z5rh7zbou" data-bluesky-embed-color-mode="system"><p lang="en">For fun... 
+Do you have ever asked for pics? Be honest 🤨 
+
+Jokes aside, I added .does.askfor.pics to @handles.net (which I thank for this incredible service), anyone can use it as bluesky handle for free here: handles.net/~/does.askfo...
+
+(Maybe in the future I will put more #handles)<br><br><a href="https://bsky.app/profile/did:plc:7gts4efmekrrfx5zbe7pbrcp/post/3m3sh2drpqs2m?ref_src=embed">[image or embed]</a></p>&mdash; Giocoliere (<a href="https://bsky.app/profile/did:plc:7gts4efmekrrfx5zbe7pbrcp?ref_src=embed">@giocoliere.dev</a>) <a href="https://bsky.app/profile/did:plc:7gts4efmekrrfx5zbe7pbrcp/post/3m3sh2drpqs2m?ref_src=embed">22/10/2025</a></blockquote>
 
 
 ------------------------------------

@@ -39,7 +39,7 @@ Consider donating to me so this service can still be up and running (all the don
 | ------------- | ------------- |
 |  [`creepers.sbs`](https://creepers.sbs)  |  Active  |
 |  [`creepers.cloud`](https://creepers.cloud)  |  Active  |
-|  [`.does.askfor.pics BLUESKY HANDLE`](https://handles.net/~/does.askfor.pics/register)  |  Active (Bluesky account required)  |
+|  `BLUESKY HANDLE`  |  W.I.P  |
 |  [`askfor.pics/@yourusername`](https://askfor.pics)  |  W.I.P  |
 |  [`Shrinkify`](https://shrinkify.club)  |  W.I.P  |
 |  [`ID`](https://id.creeperhub.net)  |  W.I.P  |

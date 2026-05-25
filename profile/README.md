@@ -41,7 +41,7 @@ Consider donating to me so this service can still be up and running (all the don
 |  [`creepers.cloud`](https://creepers.cloud)  |  Active  |
 |  [`creepers.pro`](https://creepers.pro)  |  Active  |
 |  [`creepers.lol`](https://creepers.lol)  |  Active  |
-|  [`run-it.tech`](https://run-it.tech)  |  Active  |
+|  [`run-it.tech`](https://run-it.tech)  |  Active x  1 Year only |
 |  `BLUESKY HANDLE`  |  W.I.P  |
 |  [`askfor.pics/@yourusername`](https://askfor.pics)  |  W.I.P  |
 |  [`Shrinkify`](https://shrinkify.club)  |  W.I.P  |

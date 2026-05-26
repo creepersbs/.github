@@ -13,7 +13,8 @@ Take your free subdomain for developers, MC players, MC servers for free without
 
 ## How to register?
 
-Go to this repository here and follow the tutoral to register your free domain -> [**`https://github.com/creepersbs/register`**](https://github.com/creepersbs/register)
+Go to this repository here and follow the tutoral to register your free domain -> [**`https://github.com/creepersbs/register`**](https://github.com/creepersbs/register) <br>
+Or just follow our **brand new** documentation -> [**`https://docs.creepers.sbs`**](https://docs.creepers.sbs)
 
 ### How can my domain be used?
 
